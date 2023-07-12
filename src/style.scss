@@ -6,6 +6,12 @@ $darkbg:#4A55A2;
 $darkerbg:#2b3161;
 $lightbg:#c1c9d8;
 
+// $bluecolor:#ffaf87;
+// $violetcolor:#f27059;
+// $darkbg:#ff7e33;
+// $darkerbg:#e15634;
+// $lightbg:#c1c9d8;
+
 @mixin mobile{
     @media screen and (max-width:480px){
         @content
