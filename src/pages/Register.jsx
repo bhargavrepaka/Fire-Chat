@@ -88,7 +88,7 @@ const Register = () => {
   return (
     <div className='formContainer'>
       <div className="formWrapper">
-        <span className="logo">Fire Chat</span>
+        <span className="logo">Mist Chat</span>
         <span className="title">Register</span>
         <form onSubmit={handlesubmit}>
           <input type="text" name="" id="displanamefield" placeholder='Display Name' />

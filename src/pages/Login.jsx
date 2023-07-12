@@ -36,7 +36,7 @@ const Login = () => {
   return (
     <div className='formContainer'>
       <div className="formWrapper">
-        <span className="logo">Fire Chat</span>
+        <span className="logo">Mist Chat</span>
         <span className="title">Login</span>
         <form onSubmit={handleSubmit} >
           <input type="email" name="" id="loginemailfeild" placeholder='Email' />
